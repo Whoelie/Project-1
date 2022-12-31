@@ -203,4 +203,24 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #achievements {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-achievements-heading, .right-achievements-heading {
+        width: inherit;
+    }
+
+    .left-achievements-heading h2, .right-achievements-heading {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-achievements-heading p, .right-achievements-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
