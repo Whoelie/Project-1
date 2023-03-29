@@ -12,14 +12,14 @@ This site is a page with information about the history of the legendary football
   - The navigation links are to the right. They both lead to the top of their respective pages.
   - The font of the navigation has good color contrasts with the background that makes it easy to read.
 
-![Navigation Bar](images/Navigation_Bar.png)
+![Navigation Bar](assests/images/Navigation_Bar.png)
 
 - __Header Image__
 
   - Featured right under the header.
   - A big opening image to showcase who the website is exactly about.
 
-![Header Image](images/Header_image.png)
+![Header Image](assests/images/Header_image.png)
 
 - __Pelé's achiemevents__
 
@@ -27,21 +27,21 @@ This site is a page with information about the history of the legendary football
   - You can find his most impressive achievements here.
   - An image added in the middle of the achiemevents add extra style to the page.
 
-![Pelé's achiemevents](images/Pelés_achiemevents.png)
+![Pelé's achiemevents](assests/images/Pelés_achiemevents.png)
 
 - __Fun facts__
 
   - Featured above the footer of the page.
   - Here you can find some other interesting and fun facts about Pelé's life.
 
-![Fun facts](images/Fun_facts.png)
+![Fun facts](assests/images/Fun_facts.png)
 
 - __Footer__
 
   - Featured at the very bottom of the page.
   - You can find links to various social media pages of Pelé here.
 
-![Footer](images/Footer.png)
+![Footer](assests/images/Footer.png)
 
 ## Features left to implement
 
