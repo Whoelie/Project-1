@@ -52,14 +52,13 @@ This site is a page with information about the history of the legendary football
 ### Validator Testing
 
 - HTML
-  - 1 error was returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhoelie.github.io%2FProject-1%2Findex.html)
-  - Duplicate ID welcome. From line 69, column 13; to line 69, column 29
+  - no errors was returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhoelie.github.io%2FProject-1%2Findex.html)
 - CSS
-  - no errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhoelie.github.io%2FProject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - no errors were found when passing through the official [(Jigsaw) validator]([https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhoelie.github.io%2FProject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhoelie.github.io%2FProject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en))
 
 ### Unfixed Bugs
 
-Duplicate ID welcome. From line 69, column 13; to line 69, column 29
+- No bugs were unfixed
 
 ## Deployment
 
