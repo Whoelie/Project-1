@@ -6,11 +6,15 @@ This site is a page with information about the history of the legendary football
 
 ## Features
 
-Navigation:
+__Navigation__
+
   - Featured at the top of the page, the navigation shows the website title in the left corner: RIP Pelé 1940-2022 that links to the main page.
-  - The other navigation links are to the right. There is only one for now that is Home but it is easy to add more if more pages get added.
+  - The other navigation links are to the right. They both lead to the top of their respective pages.
   - The font of the navigation has good color contrasts with the background that makes it easy to read.
-  - In the footer are social media links that link to each of Pelé's social media accounts.
+
+### Header Image:
+
+  - 
 
 ### Features left to implement
 

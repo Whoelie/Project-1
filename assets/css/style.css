@@ -134,6 +134,13 @@ hr {
     font-size: 280%;
 }
 
+#timelineheader {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+    clear: both
+}
+
 #circle-container {
     width: 300px;
     height: 300px;
@@ -155,6 +162,16 @@ hr {
     background-color: black;
     color: #ccc;
     text-align: center;
+}
+
+.event {
+    background-color: black;
+    color: #ccc;
+    text-align: center;
+}
+
+.date {
+    font-weight: bold;
 }
 
 /* footer */
