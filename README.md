@@ -4,21 +4,48 @@ This site is a page with information about the history of the legendary football
 
 ![Responsive Mockup](https://github.com/Whoelie/Project-1/blob/2c28eda9bb704729247017d0a18e75d201a09e27/assets/images/Pel%C3%A9_mockup.png)
 
-## Features
+## Existing Features
 
-__Navigation__
+- __Navigation bar__
 
-  - Featured at the top of the page, the navigation shows the website title in the left corner: RIP Pelé 1940-2022 that links to the main page.
-  - The other navigation links are to the right. They both lead to the top of their respective pages.
+  - Featured at the top of the page, the navigation bar shows the website title in the left corner: RIP Pelé 1940-2022.
+  - The navigation links are to the right. They both lead to the top of their respective pages.
   - The font of the navigation has good color contrasts with the background that makes it easy to read.
 
-### Header Image:
+![Navigation Bar](images/Navigation_Bar.png)
 
-  - 
+- __Header Image__
 
-### Features left to implement
+  - Featured right under the header.
+  - A big opening image to showcase who the website is exactly about.
 
-- Another page with a timeline of his life.
+![Header Image](images/Header_image.png)
+
+- __Pelé's achiemevents__
+
+  - Featured in the middle of the page.
+  - You can find his most impressive achievements here.
+  - An image added in the middle of the achiemevents add extra style to the page.
+
+![Pelé's achiemevents](images/Pelés_achiemevents.png)
+
+- __Fun facts__
+
+  - Featured above the footer of the page.
+  - Here you can find some other interesting and fun facts about Pelé's life.
+
+![Fun facts](images/Fun_facts.png)
+
+- __Footer__
+
+  - Featured at the very bottom of the page.
+  - You can find links to various social media pages of Pelé here.
+
+![Footer](images/Footer.png)
+
+## Features left to implement
+
+- A gallery page
 
 ## Testing
 
