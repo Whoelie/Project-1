@@ -11,6 +11,7 @@ This site is a page with information about the history of the legendary football
   - Featured at the top of the page, the navigation bar shows the website title in the left corner: RIP Pelé 1940-2022.
   - The navigation links are to the right. They both lead to the top of their respective pages.
   - The font of the navigation has good color contrasts with the background that makes it easy to read.
+  - The navigation options at the top right also move with the page so it is easy to access.
 
 ![Navigation Bar](assets/images/Navigation_Bar.png)
 
